@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Dropbox/Dropbox/Faculdade/Disciplinas/TCC I/OWL API/owlapi-distribution-3.4.8.jar" sourcepath="D:/Dropbox/Dropbox/Faculdade/Disciplinas/TCC I/OWL API/owlapi-distribution-3.4.8-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/João/Downloads/guava-18.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
