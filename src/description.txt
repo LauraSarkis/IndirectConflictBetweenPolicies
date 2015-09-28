@@ -1,0 +1,15 @@
+To run the algorithm is necessary: 
+
+=>Java 1.7 (compatible) - http://www.oracle.com/us/downloads/index.html 
+Main programmin language. 
+ 
+ 
+=>OWL API 3.4.8 (FOR OWL 2.0) - http://sourceforge.net/projects/owlapi/files/
+API for API for handling OWL files within the java language. 
+ 
+
+=> Guava 18.0 - https://code.google.com/p/guava-libraries/
+API for convert Set's in ArrayList.
+
+
+It is recommended the utilization of a IDE. The source code was implemented using the Eclipse IDE - https://eclipse.org/ 
