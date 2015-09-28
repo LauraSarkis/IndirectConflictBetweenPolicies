@@ -1,4 +1,4 @@
-To run the algorithm is necessary: 
+=> To run the algorithm is necessary: 
 
 =>Java 1.7 (compatible) - http://www.oracle.com/us/downloads/index.html 
 Main programmin language. 
