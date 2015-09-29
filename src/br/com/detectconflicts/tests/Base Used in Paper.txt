@@ -1,0 +1,1292 @@
+Sucessfully loaded: OntologyID(OntologyIRI(<http://www.owl-ontologies.com/unnamed.owl>))
+ииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииии
+//* This file presents policies randomly generated , with the //*characteristic that was generated permissions, //*prohibitions and obligations separately. The main objective was to avoid over repetitions in the combinations of the elements of the //*policies for the three policies types.
+//* In the first part of the file are: the 18 generated policies by permission, 16 generated policies by prohibition and 16 generated policies by obligation; 
+//*the second part, the propagations of the policies; 
+//*the third part, conflicts that occur between the policies and in the
+//* fourth part, the totals of conflicts, including totals individualized by relationships.
+
+
+Total generated policies: 18
+
+Policie1-> [Permitted, Administrative_Unit, null, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2-> [Permitted, Administrative_Unit, null, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3-> [Permitted, Administrative_Unit, null, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4-> [Permitted, Administrative_Unit, null, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5-> [Permitted, Administrative_Unit, null, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6-> [Permitted, Administrative_Unit, null, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7-> [Permitted, Administrative_Unit, null, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie8-> [Permitted, Administrative_Unit, null, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie9-> [Permitted, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie10-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie11-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie12-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie13-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie14-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie15-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie17-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie18-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Total generated policies: 16
+
+Policie19-> [Forbidden, Institution, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20-> [Forbidden, Institution, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie21-> [Forbidden, Institution, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie22-> [Forbidden, Institution, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie23-> [Forbidden, Institution, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24-> [Forbidden, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25-> [Forbidden, Institution, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie26-> [Forbidden, Institution, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie27-> [Forbidden, Institution, PROTOCOLIZADOR3, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie28-> [Forbidden, Institution, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie29-> [Forbidden, Institution, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie30-> [Forbidden, Institution, PROTOCOLIZADOR3, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie31-> [Forbidden, Institution, PROTOCOLIZADOR3, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie32-> [Forbidden, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie33-> [Forbidden, Institution, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie34-> [Forbidden, Institution, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Total generated policies: 16
+
+Policie35-> [Obliged, Institution, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36-> [Obliged, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie37-> [Obliged, Institution, PROTOCOLIZADOR, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie38-> [Obliged, Institution, PROTOCOLIZADOR, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie39-> [Obliged, Institution, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie40-> [Obliged, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie41-> [Obliged, Institution, MARY, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie42-> [Obliged, Institution, MARY, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie43-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie44-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie45-> [Obliged, Administrative_Unit, PROTOCOLIZADOR, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie46-> [Obliged, Administrative_Unit, PROTOCOLIZADOR, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie47-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie48-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie49-> [Obliged, Administrative_Unit, MARY, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie50-> [Obliged, Administrative_Unit, MARY, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+******* START PROPAGATION *******
+
+
+******* ORGHIERARCHY PROPAGATION *******
+
+
+Original Policie: Policie19-> [Forbidden, Institution, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie19.1-> [Forbidden, Administrative_Unit, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie19.2-> [Forbidden, Auditing, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie19.3-> [Forbidden, NUPS, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20-> [Forbidden, Institution, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie20.1-> [Forbidden, Administrative_Unit, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie20.2-> [Forbidden, Auditing, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie20.3-> [Forbidden, NUPS, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21-> [Forbidden, Institution, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie21.1-> [Forbidden, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie21.2-> [Forbidden, Auditing, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie21.3-> [Forbidden, NUPS, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22-> [Forbidden, Institution, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie22.1-> [Forbidden, Administrative_Unit, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie22.2-> [Forbidden, Auditing, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie22.3-> [Forbidden, NUPS, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23-> [Forbidden, Institution, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie23.1-> [Forbidden, Administrative_Unit, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie23.2-> [Forbidden, Auditing, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie23.3-> [Forbidden, NUPS, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24-> [Forbidden, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie24.1-> [Forbidden, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie24.2-> [Forbidden, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie24.3-> [Forbidden, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25-> [Forbidden, Institution, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie25.1-> [Forbidden, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie25.2-> [Forbidden, Auditing, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie25.3-> [Forbidden, NUPS, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26-> [Forbidden, Institution, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie26.1-> [Forbidden, Administrative_Unit, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie26.2-> [Forbidden, Auditing, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie26.3-> [Forbidden, NUPS, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35-> [Obliged, Institution, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie35.1-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie35.2-> [Obliged, Auditing, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie35.3-> [Obliged, NUPS, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36-> [Obliged, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ORGHIERARCHY): Policie36.1-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie36.2-> [Obliged, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ORGHIERARCHY): Policie36.3-> [Obliged, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+
+******* ROLE HIERARCHY PROPAGATION *******
+
+
+Original Policie: Policie37-> [Obliged, Institution, PROTOCOLIZADOR, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ROLEHIERARCHY PROPAGATION): Policie37.1-> [Obliged, Institution, PROTOCOLIZADOR2, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ROLEHIERARCHY PROPAGATION): Policie37.2-> [Obliged, Institution, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie38-> [Obliged, Institution, PROTOCOLIZADOR, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ROLEHIERARCHY PROPAGATION): Policie38.1-> [Obliged, Institution, PROTOCOLIZADOR2, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ROLEHIERARCHY PROPAGATION): Policie38.2-> [Obliged, Institution, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie45-> [Obliged, Administrative_Unit, PROTOCOLIZADOR, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ROLEHIERARCHY PROPAGATION): Policie45.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR2, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ROLEHIERARCHY PROPAGATION): Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie46-> [Obliged, Administrative_Unit, PROTOCOLIZADOR, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+New Policies (ROLEHIERARCHY PROPAGATION): Policie46.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR2, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (ROLEHIERARCHY PROPAGATION): Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+****** OWNERSHIP PROPAGATION ********
+
+
+Original Policie: Policie1-> [Permitted, Administrative_Unit, null, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2-> [Permitted, Administrative_Unit, null, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3-> [Permitted, Administrative_Unit, null, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie3.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie3.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie4-> [Permitted, Administrative_Unit, null, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie4.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie4.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie5-> [Permitted, Administrative_Unit, null, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie5.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie5.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie6-> [Permitted, Administrative_Unit, null, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie6.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie6.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie7-> [Permitted, Administrative_Unit, null, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie7.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie7.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie8-> [Permitted, Administrative_Unit, null, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie8.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie8.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie9-> [Permitted, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie9.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie9.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie43-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie43.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie43.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie44-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie44.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie44.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.1-> [Forbidden, Administrative_Unit, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie19.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie19.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.2-> [Forbidden, Auditing, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie19.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.3-> [Forbidden, NUPS, null, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie19.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.1-> [Forbidden, Administrative_Unit, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie20.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie20.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.2-> [Forbidden, Auditing, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie20.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.3-> [Forbidden, NUPS, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie20.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.1-> [Forbidden, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie21.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.2-> [Forbidden, Auditing, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie21.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.3-> [Forbidden, NUPS, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie21.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.1-> [Forbidden, Administrative_Unit, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie22.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie22.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.2-> [Forbidden, Auditing, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie22.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.3-> [Forbidden, NUPS, null, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie22.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.1-> [Forbidden, Administrative_Unit, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie23.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie23.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.2-> [Forbidden, Auditing, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie23.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.3-> [Forbidden, NUPS, null, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie23.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.1-> [Forbidden, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie24.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.2-> [Forbidden, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie24.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.3-> [Forbidden, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie24.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.1-> [Forbidden, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie25.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie25.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.2-> [Forbidden, Auditing, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie25.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.3-> [Forbidden, NUPS, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie25.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.1-> [Forbidden, Administrative_Unit, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie26.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie26.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.2-> [Forbidden, Auditing, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie26.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.3-> [Forbidden, NUPS, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie26.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.1-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie35.1.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.2-> [Obliged, Auditing, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie35.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.3-> [Obliged, NUPS, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie35.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.1-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie36.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie36.1.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.2-> [Obliged, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie36.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.3-> [Obliged, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OWNERSHIP): Policie36.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+****** PLAY PROPAGATION ********
+
+Original Policie: Policie10-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie10.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie11-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie11.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie12-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie12.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie13-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie13.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie14-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie14.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie15-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie15.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie16-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie16.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie17-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie17.1-> [Permitted, Administrative_Unit, JOSEPH, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie18-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie18.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie27-> [Forbidden, Institution, PROTOCOLIZADOR3, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie27.1-> [Forbidden, Institution, JOSEPH, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie28-> [Forbidden, Institution, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie28.1-> [Forbidden, Institution, JOSEPH, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie29-> [Forbidden, Institution, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie29.1-> [Forbidden, Institution, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie30-> [Forbidden, Institution, PROTOCOLIZADOR3, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie30.1-> [Forbidden, Institution, JOSEPH, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie31-> [Forbidden, Institution, PROTOCOLIZADOR3, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie31.1-> [Forbidden, Institution, JOSEPH, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie32-> [Forbidden, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie32.1-> [Forbidden, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie33-> [Forbidden, Institution, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie33.1-> [Forbidden, Institution, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie34-> [Forbidden, Institution, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie34.1-> [Forbidden, Institution, JOSEPH, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie39-> [Obliged, Institution, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie39.1-> [Obliged, Institution, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie40-> [Obliged, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie40.1-> [Obliged, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie47-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie47.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie48-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie48.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie37.2-> [Obliged, Institution, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie37.2.1-> [Obliged, Institution, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie37.2.2-> [Obliged, Institution, MARY, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie38.2-> [Obliged, Institution, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie38.2.1-> [Obliged, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie38.2.2-> [Obliged, Institution, MARY, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie45.2.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie45.2.2-> [Obliged, Administrative_Unit, MARY, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie46.2.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie46.2.2-> [Obliged, Administrative_Unit, MARY, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie2.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie3.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie4.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie4.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie5.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie5.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie6.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie6.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie7.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie7.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie8.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie8.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie9.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie9.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie43.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie43.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie44.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie44.1.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie19.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie19.2.1.1-> [Forbidden, Auditing, PAUL, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie19.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie19.3.1.1-> [Forbidden, NUPS, PAUL, Move, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie20.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie20.2.1.1-> [Forbidden, Auditing, PAUL, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie20.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie20.3.1.1-> [Forbidden, NUPS, PAUL, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie21.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie21.2.1.1-> [Forbidden, Auditing, PAUL, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie21.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie21.3.1.1-> [Forbidden, NUPS, PAUL, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie22.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie22.2.1.1-> [Forbidden, Auditing, PAUL, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie22.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie22.3.1.1-> [Forbidden, NUPS, PAUL, Generate, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie23.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie23.2.1.1-> [Forbidden, Auditing, PAUL, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie23.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie23.3.1.1-> [Forbidden, NUPS, PAUL, Move, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie24.2.1.1-> [Forbidden, Auditing, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie24.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie24.3.1.1-> [Forbidden, NUPS, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie25.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie25.2.1.1-> [Forbidden, Auditing, PAUL, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie25.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie25.3.1.1-> [Forbidden, NUPS, PAUL, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie26.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie26.2.1.1-> [Forbidden, Auditing, PAUL, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie26.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie26.3.1.1-> [Forbidden, NUPS, PAUL, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie35.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie35.2.1.1-> [Obliged, Auditing, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie35.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie35.3.1.1-> [Obliged, NUPS, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie36.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie36.2.1.1-> [Obliged, Auditing, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie36.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (PLAY):  Policie36.3.1.1-> [Obliged, NUPS, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+******* OBJECT COMPOSITION PROPAGATION *******
+
+
+Original Policie: Policie1-> [Permitted, Administrative_Unit, null, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.1-> [Permitted, Administrative_Unit, null, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.2-> [Permitted, Administrative_Unit, null, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2-> [Permitted, Administrative_Unit, null, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.1-> [Permitted, Administrative_Unit, null, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.2-> [Permitted, Administrative_Unit, null, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3-> [Permitted, Administrative_Unit, null, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.1-> [Permitted, Administrative_Unit, null, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.2-> [Permitted, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie10-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie10.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie10.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie11-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie11.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie11.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie12-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie12.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie12.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie10.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie10.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie10.1.2-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie11.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie11.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie11.1.2-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie12.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie12.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie12.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie1.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie2.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie2.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+
+Original Policie: Policie3.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, PPROGRADDesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+New Policies (OBJECT COMPOSITION): Policie3.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+*************************************************
+
+
+
+*********** CONFLICTS **********
+
+Conflicting [Policie1 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie1-> [Permitted, Administrative_Unit, null, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4-> [Permitted, Administrative_Unit, null, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie2 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie2-> [Permitted, Administrative_Unit, null, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5-> [Permitted, Administrative_Unit, null, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie3-> [Permitted, Administrative_Unit, null, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6-> [Permitted, Administrative_Unit, null, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie43-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7-> [Permitted, Administrative_Unit, null, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [])
+Policie35.1-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7-> [Permitted, Administrative_Unit, null, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT])
+Policie9-> [Permitted, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1-> [Forbidden, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT])
+Policie9-> [Permitted, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1-> [Forbidden, Administrative_Unit, null, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie10 AND Policie13] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie10-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie13-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie10 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie10-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie11 AND Policie14] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie11-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie14-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie11 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie11-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie15] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie12-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie15-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie12-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie13 AND Policie1] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie13-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie14 AND Policie2] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie14-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie15 AND Policie3] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie15-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie47 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie47-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [])
+Policie43.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [])
+Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie18 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT, OWNERSHIP])
+Policie18-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie18 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT, OWNERSHIP])
+Policie18-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: DIRECT
+Policie24-> [Forbidden, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36-> [Obliged, Institution, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie26-> [Forbidden, Institution, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35-> [Obliged, Institution, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie32 AND Policie40] - TYPE: DIRECT
+Policie32-> [Forbidden, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie40-> [Obliged, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie34 AND Policie39] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [] | P2 -> [])
+Policie34-> [Forbidden, Institution, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie39-> [Obliged, Institution, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie39 AND Policie37] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [ROLE])
+Policie39-> [Obliged, Institution, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie37.2-> [Obliged, Institution, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie40 AND Policie38] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [ROLE])
+Policie40-> [Obliged, Institution, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie38.2-> [Obliged, Institution, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie44 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT])
+Policie44-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1-> [Forbidden, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie47 AND Policie45] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [ROLE])
+Policie47-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie47 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [OWNERSHIP])
+Policie47-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie48 AND Policie46] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [] | P2 -> [ROLE])
+Policie48-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie48 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [] | P2 -> [CONTEXT, OWNERSHIP])
+Policie48-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OBJECT COMPOSITION] | P2 -> [CONTEXT])
+Policie3.2-> [Permitted, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1-> [Forbidden, Administrative_Unit, null, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie2] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [OBJECT COMPOSITION])
+Policie21.1-> [Forbidden, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.2-> [Permitted, Administrative_Unit, null, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie3] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [OBJECT COMPOSITION])
+Policie21.1-> [Forbidden, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.2-> [Permitted, Administrative_Unit, null, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie24.1-> [Forbidden, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.1-> [Obliged, Administrative_Unit, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie24.2-> [Forbidden, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.2-> [Obliged, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie24.3-> [Forbidden, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3-> [Obliged, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie26.1-> [Forbidden, Administrative_Unit, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.1-> [Obliged, Administrative_Unit, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie26.2-> [Forbidden, Auditing, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.2-> [Obliged, Auditing, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie26.3-> [Forbidden, NUPS, null, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3-> [Obliged, NUPS, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie35] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie35.2-> [Obliged, Auditing, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3-> [Obliged, NUPS, null, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie36 AND Policie36] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT] | P2 -> [CONTEXT])
+Policie36.2-> [Obliged, Auditing, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3-> [Obliged, NUPS, null, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie37 AND Policie37] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [ROLE])
+Policie37.1-> [Obliged, Institution, PROTOCOLIZADOR2, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie37.2-> [Obliged, Institution, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie38 AND Policie38] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [ROLE])
+Policie38.1-> [Obliged, Institution, PROTOCOLIZADOR2, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie38.2-> [Obliged, Institution, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie45 AND Policie45] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [ROLE])
+Policie45.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR2, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie45 AND Policie43] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [OWNERSHIP])
+Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie43.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie45 AND Policie35] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [CONTEXT, OWNERSHIP])
+Policie45.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie46 AND Policie46] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [ROLE])
+Policie46.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR2, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie46 AND Policie44] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [OWNERSHIP])
+Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie44.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie46 AND Policie36] - TYPE: ORTHOGONAL ROLE CONFLICT (PROPAGATION TYPE: P1 -> [ROLE] | P2 -> [CONTEXT, OWNERSHIP])
+Policie46.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR1, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie1 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie1.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie1 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie2 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie2.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie2 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie3.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie3.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie43.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie43.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP])
+Policie35.1.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie9.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie9.1-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie9.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie9.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie44 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie44.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie44 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie44.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OBJECT COMPOSITION] | P2 -> [CONTEXT, OWNERSHIP])
+Policie12.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, OBJECT COMPOSITION] | P2 -> [CONTEXT, OWNERSHIP])
+Policie3.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, OBJECT COMPOSITION] | P2 -> [CONTEXT, OWNERSHIP])
+Policie3.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie11] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OBJECT COMPOSITION])
+Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie11.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie12] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OBJECT COMPOSITION])
+Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie12.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie2] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP, OBJECT COMPOSITION])
+Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie3] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP, OBJECT COMPOSITION])
+Policie21.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.1.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR3, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie2] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP, OBJECT COMPOSITION])
+Policie21.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie3] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [OWNERSHIP, OBJECT COMPOSITION])
+Policie21.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.2.2-> [Permitted, Administrative_Unit, PROTOCOLIZADOR4, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie24.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie24.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.1.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie24.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie24.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie26.1.1-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR3, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.1.1-> [Obliged, Administrative_Unit, PROTOCOLIZADOR3, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie26.1.2-> [Forbidden, Administrative_Unit, PROTOCOLIZADOR4, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.1.2-> [Obliged, Administrative_Unit, PROTOCOLIZADOR4, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie26.2.1-> [Forbidden, Auditing, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie26.3.1-> [Forbidden, NUPS, PROTOCOLIZADOR5, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie35] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie35.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie36 AND Policie36] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP] | P2 -> [CONTEXT, OWNERSHIP])
+Policie36.2.1-> [Obliged, Auditing, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3.1-> [Obliged, NUPS, PROTOCOLIZADOR5, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie10 AND Policie13] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie10.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie13.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie10 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie10.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie11 AND Policie14] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie11.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie14.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie11 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie11.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie15] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie12.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie15.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie12.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie13 AND Policie1] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie13.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie14 AND Policie2] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie14.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie15 AND Policie3] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie15.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie47 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie47.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie45 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [ROLE, PLAY] | P2 -> [PLAY])
+Policie45.2.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [PLAY])
+Policie43.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie16] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [PLAY])
+Policie35.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie16.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie18 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie18.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie18 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie18.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie32 AND Policie40] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie32.1-> [Forbidden, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie40.1-> [Obliged, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie32 AND Policie38] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [ROLE, PLAY])
+Policie32.1-> [Forbidden, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie38.2.1-> [Obliged, Institution, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie34 AND Policie39] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [PLAY])
+Policie34.1-> [Forbidden, Institution, JOSEPH, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie39.1-> [Obliged, Institution, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie34 AND Policie37] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [ROLE, PLAY])
+Policie34.1-> [Forbidden, Institution, JOSEPH, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie37.2.1-> [Obliged, Institution, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie47 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie47.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie48 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie48.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie45 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [ROLE, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie45.2.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie46 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [ROLE, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie46.2.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie1 AND Policie4] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie1.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie4.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie2 AND Policie5] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie2.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie5.1.1-> [Permitted, Administrative_Unit, JOSEPH, Create, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie6] - TYPE: ORTHOGONAL VIEW CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie3.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcessDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie6.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, BuildDispatch, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie43 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie43.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie7] - TYPE: ORTHOGONAL CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY])
+Policie35.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie7.1.1-> [Permitted, Administrative_Unit, JOSEPH, Close, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie24] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie9.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie9 AND Policie25] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie9.1.1-> [Permitted, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie25.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie44 AND Policie24] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie44.1.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie12 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [PLAY, OBJECT COMPOSITION] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie12.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie3 AND Policie20] - TYPE: DEPENDENCY CONFLICT (PROPAGATION TYPE: P1 -> [OWNERSHIP, PLAY, OBJECT COMPOSITION] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie3.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie20.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie11] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [PLAY, OBJECT COMPOSITION])
+Policie21.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie11.1.2-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie12] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [PLAY, OBJECT COMPOSITION])
+Policie21.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie12.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie2] - TYPE: REFINMENT CONFLICT1 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY, OBJECT COMPOSITION])
+Policie21.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie2.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Create, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie21 AND Policie3] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [OWNERSHIP, PLAY, OBJECT COMPOSITION])
+Policie21.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie3.1.1.2-> [Permitted, Administrative_Unit, JOSEPH, Record, ProcNURCADesp, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie24.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie24.2.1.1-> [Forbidden, Auditing, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.2.1.1-> [Obliged, Auditing, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie24 AND Policie36] - TYPE: INDIRECT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie24.3.1.1-> [Forbidden, NUPS, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3.1.1-> [Obliged, NUPS, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie26.1.1.1-> [Forbidden, Administrative_Unit, JOSEPH, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.1.1.1-> [Obliged, Administrative_Unit, JOSEPH, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie26.2.1.1-> [Forbidden, Auditing, PAUL, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.2.1.1-> [Obliged, Auditing, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie26 AND Policie35] - TYPE: COMPOSITION CONFLICT DO TIPO2 (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie26.3.1.1-> [Forbidden, NUPS, PAUL, Generate, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3.1.1-> [Obliged, NUPS, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie35 AND Policie35] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie35.2.1.1-> [Obliged, Auditing, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie35.3.1.1-> [Obliged, NUPS, PAUL, Open, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+Conflicting [Policie36 AND Policie36] - TYPE: ORTHOGONAL ORGANIZATION CONFLICT (PROPAGATION TYPE: P1 -> [CONTEXT, OWNERSHIP, PLAY] | P2 -> [CONTEXT, OWNERSHIP, PLAY])
+Policie36.2.1.1-> [Obliged, Auditing, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+Policie36.3.1.1-> [Obliged, NUPS, PAUL, Acess, Process, Sun Aug 18 20:06:14 BRT 15, Tue Dec 31 20:06:14 BRT 15]
+
+****** TOTALS ********
+
+Total Direct Conflicts: 		2
+Total Indirect Conflicts:              10
+Total Conflicts by Refinment:		2
+Total Conflicts by Composition: 	3
+Total Conflicts by Orthogonal: 		8
+Total Conflicts by Dependency: 		4
+Total Conflicts by Role Orthogonal:    12
+Total Conflicts by View Orthogonal:    12
+Total Conflicts by Org  Orthogonal:  	2
+
+Total times that the rules were executed: 6473
+
+Total of Conflicts: 55
+
+Total policies propagated by OrgHierarchy relationship: 	30
+Total policies propagated by RoleHierarchy relationship: 	 8
+Total policies propagated by Play relationship: 		70
+Total policies propagated by Ownership relationship: 		62
+Total policies propagated by Object Composition relationship: 	36
+
+Total policies before the propagating: 	50
+Total policies propagated: 	       206
+Total policies after  the propagating: 256
+
+total runtime: 558 milliseconds.
+
+Total policies by orghierarqchy that conflicted: 	52
+Total policies by play that conflicted: 		47
+Total policies by ownership that conflicted: 	        73
+Total policies by RoleHierarchy that conflicted: 	 9
+Total policies by Object Composition that conflicted:   12
+
+Total propagated policies that conflicted:             193
+
+Total conflicts enabled by OrgHierarchy: 	79
+Total conflicts enabled by Play: 		47
+Total conflicts enabled by Ownership: 		95
+Total conflicts enabled by RoleHierarchy: 	29
+Total conflicts enabled by Object Composition: 	18
+
