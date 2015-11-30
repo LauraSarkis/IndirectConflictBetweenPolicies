@@ -11,5 +11,11 @@ API for API for handling OWL files within the java language.
 => Guava 18.0 - https://code.google.com/p/guava-libraries/
 API for convert Set's in ArrayList.
 
-
 It is recommended the utilization of a IDE. The source code was implemented using the Eclipse IDE - https://eclipse.org/ 
+
+=> To run this algorithm was used a computer with the following settings:
+
+CPU: Intel Core i5-3210m 2.5ghz
+RAM: 6gb
+Storage: 1tb
+O.S: Windows 7 Ultimate 64 bits
