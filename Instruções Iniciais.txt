@@ -1,0 +1,15 @@
+Algumas instruções iniciais:
+
+Podem ser feitos downloads dos três arquivos:
+
+           arqutilizados.rar
+           CSVOWL- Conversor.jar
+           ConflictDetector.Jar
+Para fazer testes. No arquivo arqutilizados.rar existem as instruções dos procedimentos.
+
+O caminho IndirectConflictBetweenPolicies/src/br/com/detectconflicts/main/ conduz até o código fonte com a implementação dos algoritmos.
+
+
+Estou a disposição em laura.sarkis@gmail.com.
+
+
